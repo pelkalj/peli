@@ -1,5 +1,5 @@
 UPDATE ZaduzenjeProfesora_Pelka
-SET Zaduzenje = 'Programirnaje'
+SET Zaduzenje = 'Sistem kvaliteta'
 WHERE ID_profesora = 2
 
 
